@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    background: linear-gradient(to right, #01ff65, #550066, #ff0054);
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    letter-spacing: 2rem;
+    font-size: 3rem;
+}
